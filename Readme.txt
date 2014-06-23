@@ -38,7 +38,7 @@ Lizenz
    ComPortLib     http://comport.sf.net/
    TFolderBrowser http://www.entwickler-ecke.de/viewtopic.php?t=27628
 
-Copyright © 2014 Sebastian Hütter (sebastian.huetter@st.ovgu.de)
+Copyright © 2014 Sebastian Hütter (sebastian.huetter@st.ovgu.de), Michel Vorsprach (michel@vorsprach.de)
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
